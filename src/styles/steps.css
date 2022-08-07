@@ -1,0 +1,16 @@
+.my-text-area{
+    min-height: 15rem;
+    max-width: 40rem;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.651);
+    margin-bottom: 2rem;
+    display: flex;
+    outline: none;
+}
+.my-input{
+    outline: none;
+    border: none;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.541);
+    width: 100%;
+}
